@@ -1,0 +1,6 @@
+@SimpleTaskManagement.ToDoListApi_HostAddress = http://localhost:5109
+
+GET {{SimpleTaskManagement.ToDoListApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
